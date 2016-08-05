@@ -1,0 +1,41 @@
+_repo: The-Bakchesarian-Fountain-and-Other-Poems_8192
+_version: 0.0.1
+alternative_title: Bakhchisaraiskii fontan. English
+contributor:
+  contributors:
+  - agent_name: Derzhavin, Gavriil Romanovich
+    alias: Державин, Гавриил Романович
+    birthdate: 1743
+    deathdate: 1816
+    gutenberg_agent_id: '5659'
+    url: http://www.gutenberg.org/2009/agents/5659
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Gavrila_Romanovich_Derzhavin
+    - http://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%B8%D0%BD%2C_%D0%93%D0%B0%D0%B2%D1%80%D0%B8%D0%B8%D0%BB_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87
+  - agent_name: Pushkin, Aleksandr Sergeevich
+    aliases:
+    - Пушкин, Александр Сергеевич
+    - Pushkin, A. S. (Aleksandr Sergeevich)
+    - Poushkin, Alexander
+    birthdate: 1799
+    deathdate: 1837
+    gutenberg_agent_id: '1457'
+    url: http://www.gutenberg.org/2009/agents/1457
+    wikipedia:
+    - http://www.museum.ru/Pushkin/
+    - http://en.wikipedia.org/wiki/Aleksandr_Pushkin
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8192'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russian poetry -- Translations into English'
+- GITenberg
+title: The Bakchesarian Fountain and Other Poems
+url: http://www.gutenberg.org/ebooks/8192
